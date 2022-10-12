@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrnicola1
 Im a student developer currently looking for a "job" in a business as student.
 This is my github and i will actively update it with all the programs i make. 
-Im always very open to new things and i always want to learn more and improve my skills
+Im always very open to new things and i always want to learn more and improve my skills.
 - 17 Year old Male : )
 
 <!---
